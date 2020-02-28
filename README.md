@@ -1,2 +1,2 @@
 # kaggle
-Here are my notebooks for kaggle competitions
+Here are my tutorial notebooks for kaggle competitions
